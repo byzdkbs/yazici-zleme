@@ -17,7 +17,7 @@ MSSQL Server
 
 Bu projeyi klonlayın:
 
-git clone https://github.com/kullaniciadi/YaziciIzlemePaneli.git
+git clone https://github.com/byzdkbs/YaziciIzlemePaneli.git
 
 
 App.config dosyasında bulunan connection string ayarını kendi SQL Server bilgilerinizle güncelleyin.
